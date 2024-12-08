@@ -4,6 +4,15 @@
 ## Author
 - **Name:** Kinshuk Pandala
 - **Reg No:** 23BAC10026
+- [LinkedIn](https://www.linkedin.com/in/kinshukpandala)
+- [GitHub](https://github.com/Kinshukpandala)
+
+
+## Repository
+
+This project is also available in the following GitHub repository:
+
+[Student Grading System Repository](https://github.com/Kinshukpandala/java-student-grading-system)
 
 ## Table of Contents
 - [Introduction](#introduction)
